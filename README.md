@@ -36,9 +36,9 @@ Dash-to-Dock: https://extensions.gnome.org/extension/307/dash-to-dock/
 |
 Steps to follow: 
 
-cd $HOME; mkdir .themes
-git clone https://github.com/CJsps199/Gnome-Shell-Theming.git
-cd Gnome-Shell-Theming
+cd $HOME; mkdir .themes;
+git clone https://github.com/CJsps199/Gnome-Shell-Theming.git;
+cd Gnome-Shell-Theming;
 mv themes/* $HOME/.themes/
 
 
