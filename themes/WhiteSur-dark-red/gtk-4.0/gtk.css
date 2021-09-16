@@ -1,0 +1,26 @@
+@import url("resource:///org/gnome/theme/gtk.css");
+headerbar {
+  border-radius: 12px 12px 0 0;
+}
+window {
+  border-radius: 0px 0px 12px 12px;
+  border: 4px transparent;
+}
+/*.titlebar,
+.titlebar .background {
+  border-top-left-radius: 12px;
+  border-top-right-radius: 12px;
+  border-bottom-left-radius: 0px;
+  border-bottom-right-radius: 0px;
+  border: 3px transparent;
+  background: none;
+  background-color : grey;
+}
+window
+{
+  border: 3px solid black;
+  background: none;
+  background-color : red;
+  border-radius: 25px;
+}
+*/
